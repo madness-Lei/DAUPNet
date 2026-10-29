@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "daupnet"
+version = "0.0.0"
+description = "Release-status placeholder for DAUPNet"
+readme = "README.md"
+dependencies = []
+
+[tool.setuptools]
+packages = ["daupnet"]

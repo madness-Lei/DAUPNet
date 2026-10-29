@@ -1,0 +1,9 @@
+# Allow only the five files intended for this placeholder release.
+*
+!/.gitignore
+!/README.md
+!/pyproject.toml
+!/daupnet/
+/daupnet/*
+!/daupnet/__init__.py
+!/daupnet/__main__.py
